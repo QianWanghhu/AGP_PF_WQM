@@ -1,0 +1,14 @@
+﻿Index,Name,Name_short,Min,Max,raw_min,raw_max,Type,Values,Landuse,Veneer_location
+0,DeliveryRatioSurface,DRF,0,100,0,100,Uniform,25%,Sugarcane,v.model.catchment.generation
+1,DeliveryRatioSeepage,DRP,0,100,0,100,Uniform,0-15%,Sugarcane,v.model.catchment.generation
+2,DWC,DWC,0,1,0,5,Uniform,0-10,Sugarcane,v.model.catchment.generation
+3,dissConst_DWC,gfDWC,0,1,0,5,Uniform,0.002-0.306 (mg/L),Grazing_Forested,v.model.catchment.generation
+4,dissConst_EMC,gfEMC,0,1,0,5,Uniform,0.003 - 0.61 (mg/L),Grazing_Forested,v.model.catchment.generation
+5,dissConst_DWC,goDWC,0,1,0,5,Uniform,0.002-0.306 (mg/L),Grazing_Open,v.model.catchment.generation
+6,dissConst_EMC,goEMC,0,1,0,5,Uniform,0.003 - 0.61 (mg/L),Grazing_Open,v.model.catchment.generation
+7,dissConst_DWC,cDWC,0,1,0,5,Uniform,0.002-0.306 (mg/L),Conservation,v.model.catchment.generation
+8,dissConst_EMC,cEMC,0,1,0,5,Uniform,0.003 - 0.61 (mg/L),Conservation,v.model.catchment.generation
+9,dissConst_DWC,fDWC,0,1,0,5,Uniform,0.002-0.306 (mg/L),Forestry,v.model.catchment.generation
+10,dissConst_EMC,fEMC,0,1,0,5,Uniform,0.003 - 0.61 (mg/L),Forestry,v.model.catchment.generation
+11,dissConst_DWC,oDWC,0,1,0,5,Uniform,0.002-0.306 (mg/L),Others,v.model.catchment.generation
+12,dissConst_EMC,oEMC,0,1,0,5,Uniform,0.003 - 0.61 (mg/L),Others,v.model.catchment.generation

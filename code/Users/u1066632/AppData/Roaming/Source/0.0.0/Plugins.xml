@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlugin xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Plugin>
+    <IsEnabled>true</IsEnabled>
+    <!-- <Path>\\winhpc\Users\\Reef\Fred\\maria\\Veneer\veneer_cmd_Source450_Feb2020\FlowMatters.Source.Veneer.dll</Path> -->
+    <Path>.\vcmd45\FlowMatters.Source.Veneer.dll</Path>
+  </Plugin>
+  <Plugin>
+    <IsEnabled>true</IsEnabled>
+    <!-- <Path>\\winhpc\Users\\Reef\Fred\\maria\\Veneer\veneer_cmd_Source450_Feb2020\Plugins\CodeProjectWizardDemo.dll</Path> -->
+    <Path>\\E:\\cloudStor\\Projects\\Monitoring design\\src\\DIN\\pest_source\\vcmd45\Plugins\latest\CodeProjectWizardDemo.dll</Path>
+  </Plugin>
+  <Plugin>
+    <IsEnabled>true</IsEnabled>
+    <!-- <Path>\\winhpc\Users\\Reef\Fred\\maria\\Veneer\veneer_cmd_Source450_Feb2020\Plugins\Dynamic_SedNet.dll</Path> -->
+    <Path>\\E:\\cloudStor\\Projects\\Monitoring design\\src\\DIN\\pest_source\\vcmd45\Plugins\latest\Dynamic_SedNet.dll</Path>
+  </Plugin>
+  <Plugin>
+    <IsEnabled>true</IsEnabled>
+    <!-- <Path>\\winhpc\Users\\Reef\Fred\\maria\\Veneer\veneer_cmd_Source450_Feb2020\Plugins\GBR_DynSed_Extension.dll</Path> -->
+    <Path>\\E:\\cloudStor\\Projects\\Monitoring design\\src\\DIN\\pest_source\\vcmd45\\Plugins\latest\GBR_DynSed_Extension.dll</Path>
+  </Plugin>
+</ArrayOfPlugin>
+
